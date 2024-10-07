@@ -1,0 +1,2 @@
+all:
+	gcc -o simulacao main.c functions.c -lpthread
